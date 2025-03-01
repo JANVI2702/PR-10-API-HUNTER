@@ -14,4 +14,15 @@ This is a React application that displays a list of posts with search and filter
 ## 🛠️ Usage
 
 - 📝 Type in the search box to filter posts by title or description.
-- (https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 👥 Use the dropdown to filter posts by user ID.
+- ❌ Click the "Clear filter" button to reset all filters.
+- 🔄 If an error occurs, click "Try Again" to refetch the data.
+
+## 🏗️ Technologies Used
+
+- ⚛️ React.js
+- 🏛️ Redux Toolkit
+- 🛣️ React Router
+- 🎨 Bootstrap
+- 🔗 Axios
+- 
