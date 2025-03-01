@@ -25,4 +25,4 @@ This is a React application that displays a list of posts with search and filter
 - 🛣️ React Router
 - 🎨 Bootstrap
 - 🔗 Axios
-- 
+
